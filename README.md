@@ -19,7 +19,7 @@ A comunicação entre o frontend e o backend foi estruturada seguindo os princí
 * **Status Codes:** Retornos apropriados (Ex: `201 Created` para sucessos de inserção, `404 Not Found` para recursos inexistentes).
 * **JSON:** Padrão de troca de dados.
 
-### Paginação (Server-side)
+### Paginação
 Para garantir a performance do sistema conforme o catálogo cresce, foi implementada a **paginação de dados**.
 * Em vez de carregar mil filmes de uma vez, o backend entrega pequenos "lotes" (20 filmes por vez).
 
