@@ -1,4 +1,4 @@
-# 🎬 Movie App - Pixel Breeders Challenge
+# 🎬 Movie App - Pixel Breeders 
 
 Sistema fullstack para gerenciamento de catálogos de filmes, construído com foco em escalabilidade, performance e boas práticas de arquitetura.
 
